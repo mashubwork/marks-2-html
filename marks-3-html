@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<title>Add Two Numbers.</title>
+</head>                                               
+<script>
+var num1 = 25;
+var num2 = 25;
+var num3 = (num1 + num2);
+print("Num1 " + num1 + " Num2 " + num2);
+print("Num3 " + num3);
+</script></html>

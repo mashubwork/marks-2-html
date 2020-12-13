@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title>MARK4HTMJS</title>
+<h3>marks-4-jscript=html</h3>
+<h3>Hello, Neighbor!</h3>
+<h3>Goodbye, Neightbor!</h3>
+<h3>Let's Add Two Numbers.</h3>
+<script>
+var num1 = 25;
+var num2 = 25;
+var num3 = (num1 + num2);
+document.write(("<h3><i>" + "Num1 " + num1 + " Num2 " + num2 + "</i></h3><br>"));
+document.write(("<h3><i>" + "Num3 " + num3 + "</i></h3><br>"));
+</script></head></html>
